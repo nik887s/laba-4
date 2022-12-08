@@ -1,0 +1,3 @@
+﻿  4.3.c
+C:\Users\NIK\source\repos\4.3\4.3\4.3.c(39,9): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  4.3.vcxproj -> C:\Users\NIK\source\repos\4.3\x64\Debug\4.3.exe

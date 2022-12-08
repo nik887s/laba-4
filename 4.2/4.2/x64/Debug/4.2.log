@@ -1,0 +1,4 @@
+﻿  4.2.c
+C:\Users\NIK\source\repos\4.2\4.2\4.2.c(45,9): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\NIK\source\repos\4.2\4.2\4.2.c(64,21): warning C4101: itwas: неиспользованная локальная переменная
+  4.2.vcxproj -> C:\Users\NIK\source\repos\4.2\x64\Debug\4.2.exe
